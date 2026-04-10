@@ -2,7 +2,7 @@ site_name: MimaKit
 site_url: https://manuales.algoritmia.sv/mimakit/
 site_description: Manual de usuario de MimaKit
 site_author: Edwin Fajardo
-copyright: Copyright &copy;2024 Algoritmia SV
+copyright: Copyright &copy;2024-2026 Algoritmia SV
 site_dir: /store/bphp/manuals/mimakit
 nav:
   - Inicio: index.md
@@ -49,10 +49,14 @@ nav:
     - Usuarios: configuraciones/usuarios.md
     - Numeraciones: configuraciones/numeraciones.md
 theme:
-  name: mkdocs
+  name: material
   nav_style: dark
   locale: es
 extra_css:
   - css/algoritmiasv.css
 markdown_extensions:
   - attr_list
+plugins:
+  - to-pdf:
+      cover_subtitle: Medical Information Management Kit
+      cover_logo: https://apps.rti.li/images/algoritmia_sv_logo.png
