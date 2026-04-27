@@ -7,14 +7,16 @@ site_dir: /store/bphp/manuals/mimakit
 nav:
   - Inicio: index.md
   - Clínica:
-    - Pacientes: clinica/pacientes.md
     - Consultas: clinica/consultas.md
+    - Pacientes: clinica/pacientes.md
+    - Médicos: clinica/medicos.md
     - Citas: clinica/citas.md
     - Notas: clinica/notas.md
   - Laboratorio:
     - Exámenes: laboratorio/examenes.md
     - Resultados: laboratorio/resultados.md
     - Pacientes: laboratorio/pacientes.md
+    - Categorías: laboratorio/categorias.md
   - Ventas:
     - Ventas: ventas/ventas.md
     - Clientes: ventas/clientes.md
