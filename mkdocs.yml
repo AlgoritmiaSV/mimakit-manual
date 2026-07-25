@@ -61,4 +61,5 @@ markdown_extensions:
 plugins:
   - to-pdf:
       cover_subtitle: Medical Information Management Kit
-      cover_logo: https://apps.rti.li/images/algoritmia_sv_logo.png
+      cover_logo: https://www.algoritmia.sv/images/logo.png
+      output_path: pdf/mimakit-manual.pdf
