@@ -19,8 +19,11 @@ nav:
     - Categorías: laboratorio/categorias.md
   - Ventas:
     - Ventas: ventas/ventas.md
+    - Cotizaciones: ventas/cotizaciones.md
     - Clientes: ventas/clientes.md
-    - Créditos: ventas/creditos.md
+    - Ventas al crédito: ventas/ventas-credito.md
+    - Notas de crédito: ventas/notas-credito.md
+    - Notas de débito: ventas/notas-debito.md
   - Compras:
     - Compras: compras/compras.md
     - Proveedores: compras/proveedores.md

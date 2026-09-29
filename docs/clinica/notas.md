@@ -33,7 +33,3 @@ Para editar una nota, vaya a: **Clínica > Notas**, luego dar clic en el nombre 
 Para eliminar una nota, vaya a: **Clínica > Notas**, luego dar clic en el nombre de la nota que desea eliminar y se abrirá la vista detallada de la nota, y al pie de esa vista, haga clic en el botón **Eliminar**.
 
 ![Eliminar nota](../img/clinica/editar-nota.png)
-
----
-
-## Imprimir nota
