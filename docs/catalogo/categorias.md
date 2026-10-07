@@ -6,13 +6,19 @@ Las categorías permiten clasificar productos y servicios que brinda la empresa;
 
 ## Lista de categorías
 
-Para ver la lista de categorías, desde el menú principal, vaya a **Catálogo > Categorías**.
+Para ver la lista de categorías, vaya a **Catálogo > Categorías**.
+
+![Lista de categorías](../img/catalogo/lista-categorias.png)
 
 ---
 
 ## Crear una categoría
 
-Para crear una nueva categoría, desde la lista de categorías, haga clic en el ícono **+**.
+Para crear una nueva categoría, vaya a: **Catálogo > Categorías**, y luego dar clic en el botón **+**.
+
+![Crear una categoría](../img/catalogo/nueva-categoria.png)
+
+---
 
 ### Prefijo y sufijo
 
@@ -38,10 +44,18 @@ Las categorías permiten codificar de manera automática cada producto ingresado
 > K002L  
 > K003L...
 
---
+---
 
 ## Modificar una categoría
 
---
+Para modificar una categoría, vaya a: **Catálogo > Categorías**, luego dar clic en el nombre de la categoría que desea modificar y se abrirá la vista detallada de la categoría, y al pie de esa vista, haga clic en el botón **Editar**.
+
+![Editar una categoría](../img/catalogo/editar-categoria.png)
+
+---
 
 ## Eliminar una categoría
+
+Para eliminar una categoría, vaya a: **Catálogo > Categorías**, luego dar clic en el nombre de la categoría que desea eliminar y se abrirá la vista detallada de la categoría, y al pie de esa vista, haga clic en el botón **Eliminar**.
+
+![Eliminar una categoría](../img/catalogo/editar-categoria.png)

@@ -1,5 +1,7 @@
 # Ventas
 
+Las ventas son las transacciones comerciales que detallan los productos o servicios adquiridos, el monto cobrado y el comprobante generado.
+
 ---
 
 ## Nueva venta

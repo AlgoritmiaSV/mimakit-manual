@@ -18,6 +18,6 @@ Para registrar una nueva nota de débito, vaya a: **Ventas > Notas de débito**,
 
 Luego de haber seleccionado la venta podrá dar clic en la opción **Continuar**
 
-![Nueva nota de débito](../img/ventas/nueva-nota-debito-1.png)
+![Nueva nota de débito](../img/ventas/nueva-nota-debito1.png)
 
-![Nueva nota de débito](../img/ventas/nueva-nota-debito-2.png)
+![Nueva nota de débito](../img/ventas/nueva-nota-debito2.png)

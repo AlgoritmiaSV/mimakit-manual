@@ -1,5 +1,7 @@
 # Cotizaciones
 
+Presupuesto temporal que especifica los precios y condiciones ofrecidas a un cliente antes de formalizar una venta.
+
 ---
 
 ## Lista de cotizaciones

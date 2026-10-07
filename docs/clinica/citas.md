@@ -1,5 +1,7 @@
 # Citas
 
+Reserva programada de fecha y hora para la atención de un paciente con un profesional.
+
 ---
 
 ## Listado de citas

@@ -1,5 +1,7 @@
 # Médicos
 
+Los médicos son los profesionales de la salud encargados de diagnosticar, tratar y registrar la atención médica del paciente.
+
 ---
 
 ## Listado de médicos

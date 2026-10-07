@@ -1,5 +1,7 @@
 # Resultados de laboratorio
 
+Informe detallado con los valores y diagnósticos obtenidos de los análisis de muestras clínicas de un paciente.
+
 ---
 
 ## Listado de resultados

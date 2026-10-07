@@ -1,5 +1,7 @@
 # Pacientes de laboratorio
 
+Registro de los datos clínicos y demográficos de los usuarios que tienen exámenes, tomas de muestras o resultados pendientes en el laboratorio.
+
 ---
 
 ## Listado de pacientes

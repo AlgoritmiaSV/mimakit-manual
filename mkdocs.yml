@@ -12,11 +12,14 @@ nav:
     - Médicos: clinica/medicos.md
     - Citas: clinica/citas.md
     - Notas: clinica/notas.md
-  - Laboratorio:
-    - Exámenes: laboratorio/examenes.md
-    - Resultados: laboratorio/resultados.md
-    - Pacientes: laboratorio/pacientes.md
-    - Categorías: laboratorio/categorias.md
+  - Catálogo:
+    - Productos: catalogo/productos.md
+    - Servicios: catalogo/servicios.md
+    - Categorías: catalogo/categorias.md
+    - Combos: catalogo/combos.md
+    - Productos genéricos: catalogo/productos-genericos.md
+    - Unidades de medida: catalogo/unidades-medida.md
+    - Formas farmacéuticas: catalogo/formas-farmaceuticas.md
   - Ventas:
     - Ventas: ventas/ventas.md
     - Cotizaciones: ventas/cotizaciones.md
@@ -27,32 +30,51 @@ nav:
   - Compras:
     - Compras: compras/compras.md
     - Proveedores: compras/proveedores.md
-    - 'Inventario inicial': compras/inventario-inicial.md
-  - Catálogo:
-    - Productos: catalogo/productos.md
-    - Servicios: catalogo/servicios.md
-    - Categorías: catalogo/categorias.md
-    - Combos: catalogo/combos.md
-    - 'Productos genéricos': catalogo/productos-genericos.md
-    - 'Unidades de medida': catalogo/unidades-de-medida.md
+    - Compras al crédito: compras/compras-credito.md
+    - Servicios de proveedores: compras/servicios-proveedores.md
+  - Efectivo:
+    - Movimientos: efectivo/movimientos.md
+    - Ingresos: efectivo/ingresos.md
+    - Egresos: efectivo/egresos.md
+    - Gastos: efectivo/gastos.md
+    - Transferencias: efectivo/transferencias.md
+    - Ventas: efectivo/ventas.md
+    - Cierres de caja: efectivo/cierres-caja.md
+    - Cajas: efectivo/cajas.md
+  - Puntos de venta:
+    - Puntos de venta: puntos-venta/puntos-venta.md
+    - Cortes X: puntos-venta/cortes-x.md
+  - Inventario:
+    - Inventario inicial: inventario/inventario-inicial.md
+    - Traslado de productos: inventario/traslado-productos.md
+    - Mermas: inventario/mermas.md
+    - Levantamiento de inventario: inventario/levantamiento-inventario.md
   - Reportes:
-    - 'Reportes de ventas': reportes/reportes-ventas.md
-    - 'Reportes de compras': reportes/reportes-compras.md
-    - 'Reportes de utilidad': reportes/reportes-utilidad.md
-    - Inventerio: reportes/reportes-inventario.md
+    - Reporte de ventas: reportes/reporte-ventas.md
+    - Reporte de compras: reportes/reporte-compras.md
+    - Inventario: reportes/inventario.md
+    - Reporte de utilidad: reportes/reporte-utilidad.md
     - Kardex: reportes/kardex.md
-    - Precederos: reportes/perecederos.md
-    - 'Productos en escasez': reportes/escasez.md
-    - 'Productos en exceso': reportes/exceso.md
+    - Cuentas por cobrar: reportes/cuentas-cobrar.md
+    - Perecederos: reportes/perecederos.md
+    - Productos en escasez: reportes/productos-escasez.md
+    - Productos en exceso: reportes/productos-exceso.md
+    - Cuentas por pagar: reportes/cuentas-pagar.md
+    - DTE enviados: reportes/dte-enviados.md
+    - Descargar DTE: reportes/descargar-dte.md
+    - DTE por categoría: reportes/dte-categoria.md
+    - Compras pendientes: reportes/compras-pendientes.md
+    - Trazabilidad de productos: reportes/trazabilidad-productos.md
   - Herramientas:
-    - 'Historial de actividades': herramientas/historial-actividades.md
-    - 'Papelera de reciclaje': herramientas/papelera.md
+    - Papelera de reciclaje: herramientas/papelera.md
+    - Registro de actividades: herramientas/registro-actividades.md
   - Configuraciones:
-    - 'Datos de la empresa': configuraciones/entidad.md
+    - Datos de la entidad: configuraciones/entidad.md
     - Preferencias: configuraciones/preferencias.md
-    - Roles: configuraciones/roles.md
     - Usuarios: configuraciones/usuarios.md
-    - Numeraciones: configuraciones/numeraciones.md
+    - Roles: configuraciones/roles.md
+    - Claves DTE: configuraciones/claves-dte.md
+    - Acerca de MimaKit: configuraciones/acerca-mimakit.md
 theme:
   name: material
   nav_style: dark

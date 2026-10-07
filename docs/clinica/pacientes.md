@@ -1,5 +1,7 @@
 # Pacientes
 
+Los pacientes son las personas registradas en el sistema que reciben atención médica y poseen un historial clínico asociado.
+
 ---
 
 ## Listado de pacientes

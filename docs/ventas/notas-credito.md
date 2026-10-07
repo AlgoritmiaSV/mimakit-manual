@@ -14,10 +14,10 @@ Para ver la lista de notas de crédito, vaya a: **Ventas > Notas de crédito**.
 
 ## Nueva nota de crédito
 
-Para registrar una nueva nota de crédito, vaya a: **Ventas > Notas de crédito**, luego dar clic en el botón **+**, y luego dar clic en **seleccionar**, se mostrará una lista en donde deberá seleccionar la venta a la que desea crear la nota de crédito.
+Para registrar una nueva nota de crédito, vaya a: **Ventas > Notas de crédito**, luego dar clic en el botón **+**, y luego dar clic en **seleccionar**, se mostrará una lista en donde deberá seleccionar el CCF al que desea realizar la nota de crédito.
 
-Luego de haber seleccionado la factura podrá dar clic en la opción **Continuar**
+Luego de haber seleccionado el CCF podrá dar clic en la opción **Continuar**
 
-![Nueva nota de crédito](../img/ventas/nueva-nota-credito-1.png)
+![Nueva nota de crédito](../img/ventas/nueva-nota-credito1.png)
 
-![Nueva nota de crédito](../img/ventas/nueva-nota-credito-2.png)
+![Nueva nota de crédito](../img/ventas/nueva-nota-credito2.png)

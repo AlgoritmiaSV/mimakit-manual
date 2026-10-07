@@ -1,5 +1,7 @@
 # Exámenes de laboratorio
 
+Registro de órdenes, muestras y resultados de pruebas analíticas clínicas asociadas al expediente de un paciente.
+
 ---
 
 ## Listado de exámenes

@@ -1,5 +1,7 @@
 # Consultas médicas
 
+Registro individual de una atención médica realizada a un paciente, que incluye su evaluación, diagnóstico y tratamiento.
+
 ---
 
 ## Registrar nueva consulta

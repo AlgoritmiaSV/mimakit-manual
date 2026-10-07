@@ -1,6 +1,6 @@
 # Clientes
 
-Este módulo permite registrar y gestionar cada uno de los clientes.
+Persona o empresa registrada en el sistema que adquiere productos o servicios y cuentan con un historial comercial y de facturación.
 
 ---
 
