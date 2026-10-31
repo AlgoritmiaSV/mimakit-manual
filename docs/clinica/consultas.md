@@ -18,10 +18,6 @@ El registro en el formulario de consulta puede hacerse en dos pasos, o en una so
 **El primer paso**: Con la información general del paciente, y opcionalmente, la toma de signos vitales.  
 **El segundo paso**: Con todos los demás datos de la consulta.
 
-### El primer paso
-
-### El segundo paso
-
 ---
 
 ## Consultas en proceso

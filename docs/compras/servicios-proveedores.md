@@ -8,7 +8,7 @@ Registro y control de contrataciones intangibles recibidas de terceros para el f
 
 Para ver la lista de servicios de proveedores, vaya a: **Compras > Servicios de proveedores**.
 
-![Servicios de proveedores](../img/compras/lista-servicios-proveedores.png)
+![Servicios de proveedores](../img/compras/servicios-proveedores.png)
 
 ---
 

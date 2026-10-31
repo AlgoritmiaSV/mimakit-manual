@@ -8,7 +8,7 @@ Comprobante para registrar y controlar el movimiento de existencias de un almac√
 
 Para ver el listado de traslados de productos, vaya a: **Inventario > Traslados de productos**.
 
-![Listado de traslados de productos](../img/inventario/listado-traslados-productos.png)
+![Listado de traslados de productos](../img/inventario/traslado-productos.png)
 
 ---
 
@@ -16,4 +16,4 @@ Para ver el listado de traslados de productos, vaya a: **Inventario > Traslados 
 
 Para registrar un nuevo traslado de producto, vaya a: **Inventario > Traslados de productos**, y luego dar clic en el bot√≥n **+**.
 
-![Nuevo traslado de producto](../img/inventario/nuevo-traslado-producto.png)
+![Nuevo traslado de producto](../img/inventario/nuevo-traslado.png)

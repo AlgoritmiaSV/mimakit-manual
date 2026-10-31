@@ -10,4 +10,4 @@ Para ver el reporte de productos perecederos, vaya a: **Reportes > Perecederos**
 
 En la parte superior encontrará una caja de texto donde podrá elegir con cuantos días de antelación a la fecha de vencimiento desea generar el reporte.
 
-![Listado de productos perecederos](../img/reportes/productos-perecederos.png)
+![Listado de productos perecederos](../img/reportes/reporte-perecederos.png)

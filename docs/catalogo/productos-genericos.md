@@ -6,7 +6,7 @@
 
 Para ver la lista de productos genéricos, vaya a: **Catálogo > Productos genéricos**.
 
-![Lista de productos genéricos](../img/catalogo/lista-productos-genericos.png)
+![Lista de productos genéricos](../img/catalogo/productos-genericos.png)
 
 ---
 

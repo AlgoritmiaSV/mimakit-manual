@@ -16,7 +16,7 @@ Para ver la lista de combos, vaya a: **Catálogo > Combos**.
 
 Para crear un nuevo combo, vaya a: **Catálogo > Combos**, y luego dar clic en el botón **+**.
 
-![Nuevo combo](../img/catalogo/crear-combo.png)
+![Nuevo combo](../img/catalogo/nuevo-combo.png)
 
 ---
 
